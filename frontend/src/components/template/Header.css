@@ -1,0 +1,19 @@
+header.header{
+    background-color: #ffff;
+    padding: 0px 15px;
+    overflow: hidden;
+    overflow-wrap: break-word;
+    white-space: nowrap;
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
+
+header.header p{
+    padding: 5px;
+    margin-top: 45px;
+    margin-right: -123px;
+}
+
