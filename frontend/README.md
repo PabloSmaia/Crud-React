@@ -1,7 +1,7 @@
 # Crud
 Projeto de cadastro de usuarios feito em React.
 O projeto foi desenvolvido durante o curso de React - Cod3r
-![Projeto](https://i.imgur.com/7OX4xmb.png)
+![Projeto](https://user-images.githubusercontent.com/101607033/186330029-e24d3873-ca6d-4690-9b4c-f1ac0c6f4f44.jpg)
 
 ## Objetivos:
 Criar uma aplicação Web feita em React que faça as 4 operações basicas de um cadastro (Criar, Ler, Atualizar e Deletar) usuários.
